@@ -23,7 +23,7 @@ public class DesinProductsPipeline {
 
 	
 	private void add(){
-		String url = "jdbc:mysql://121.41.112.38:3306/biyebao?characterEncoding=UTF-8&characterSetResults=UTF-8" ;    
+		String url = "jdbc:mysql://121.41.112.25:3306/biyebao?characterEncoding=UTF-8&characterSetResults=UTF-8" ;
 
 		//String url = "jdbc:mysql://localhost:3306/biyebao?characterEncoding=UTF-8&characterSetResults=UTF-8" ;    
 	     String username = "root" ;   
